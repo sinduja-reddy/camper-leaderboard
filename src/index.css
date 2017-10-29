@@ -1,5 +1,11 @@
 body {
-  margin: 0;
-  padding: 0;
+   width:80%;
+  margin: 0 auto;
   font-family: sans-serif;
 }
+img{
+	width:5%;
+	border:1px solid black;
+}
+span{
+margin-left:10px;}
